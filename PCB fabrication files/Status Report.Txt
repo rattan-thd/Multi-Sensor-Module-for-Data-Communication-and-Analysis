@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [module.PrjPcb]
+   Generated File[sensor-RoundHoles.TXT]
+   Generated File[sensor-SlotHoles.TXT]
+   Generated File[sensor.LDP]
+   Generated File[sensor.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:53:28 AM On 06-Aug-24
