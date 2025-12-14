@@ -21,8 +21,3 @@ The system’s design emphasizes scalability, cost-effectiveness, and ease of de
 - Grafana Dashboard
 - Altium Designer
 
- 1. [Source Code](./src/)
-This folder contains all the source code used to program the multi-sensor module and communicate with the central data server. The key components include:
-- Microcontroller programming
-- Data acquisition logic
-- Communication protocol setup
